@@ -4,7 +4,7 @@ module.exports = [
     link: '/overview/'
   },
   {
-    text: '易经基础知识',
+    text: '易经基础',
     link: '/basic/'
   },
   {
