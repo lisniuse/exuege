@@ -25,31 +25,3 @@ footer: 署名-非商业性使用-相同方式共享 3.0 中国大陆 (CC BY-NC-
     <p>立足中国、面向全世界传播中国《易经》这部古老而神秘的人类最早的哲学著作、东方思维体系。让世界不仅要了解现在的中华名族，更要学习中华名族的古老文化隗宝。《易学阁》平台创始人旨在抛砖引玉希望后来贤能“长江后浪推前浪”把中国易经发扬光大服务全球。</p>
   </div>
 </div>
-
-### 就像1、2、3 一样简单
-
-``` bash
-# 1、安装包
-$ pip install pandas
-
-# 2、进入python的交互式界面
-$ python -i
-
-# 3、使用Pandas
->>> import pandas as pd
->>> df = pd.DataFrame() 
->>> print(df)
-
-# 4、输出结果
-Empty DataFrame
-Columns: []
-Index: []
-```
-
-::: warning 提醒
-本网站推荐使用[Python3.x](https://www.python.org/downloads/)及以上版本。
-:::
-
-<ahome-nav></ahome-nav>
-
-<ahome-footer></ahome-footer>

@@ -8,10 +8,6 @@ module.exports = [
     link: '/basic/'
   },
   {
-    text: '八卦基础',
-    link: '/bagua/'
-  },
-  {
     text: '易经谋略',
     link: '/strategy/'
   },

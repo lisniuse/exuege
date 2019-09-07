@@ -75,6 +75,11 @@ module.exports = ctx => ({
   ],
   theme: 'teadocs',
   themeConfig: {
+    logo: {
+      text: '易学阁',
+      subText: '国学网',
+      image: '/logo.png'
+    },
     // alert: [{
     //   id: '2019-7-29',
     //   title: '文档公告',
@@ -91,7 +96,7 @@ module.exports = ctx => ({
         lastUpdated: '上次更新',
         nav: require('./nav/zh'),
         sidebar: {
-          '/docs/': require('./sidebar/docs_zh')()
+          '/app/': require('./sidebar/app_zh')()
         }
       },
       '/en/': {
@@ -101,7 +106,7 @@ module.exports = ctx => ({
         lastUpdated: 'Last Updated',
         nav: require('./nav/en'),
         sidebar: {
-          '/en/docs/': require('./sidebar/docs_en')()
+          '/en/app/': require('./sidebar/app_en')()
         }
       }
     }

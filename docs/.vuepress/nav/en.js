@@ -1,29 +1,26 @@
 module.exports = [
   {
-    text: 'Introduction',
-    link: '/en/intro/',
+    text: '易经起源概述',
+    link: '/overview/'
   },
   {
-    text: 'About',
-    link: '/en/about/'
+    text: '易经基础',
+    link: '/basic/'
   },
   {
-    text: 'Get Pandas',
-    link: '/en/get_pandas/'
+    text: '易经谋略',
+    link: '/strategy/'
   },
   {
-    text: 'Documentation',
-    link: '/en/docs/'
+    text: '易经智慧',
+    link: '/wisdom/'
   },
   {
-    text: 'Awesome',
-    link: '/en/awesome/'
+    text: '易经应用',
+    link: '/app/'
   },
   {
-    text: 'Learn More',
-    items: [
-      { text: 'Community', link: '/en/community/' },
-      { text: 'Talks', link: '/en/talks/' }
-    ]
+    text: '易经宝典',
+    link: '/book/'
   }
 ]

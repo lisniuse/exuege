@@ -18,3 +18,17 @@ pre.vue-container
 
 .MathJax
   outline:0;
+
+@keyframes bonce {
+  0%{ transform: rotate(0deg) }
+  100%{ transform: rotate(360deg) }
+}
+
+.hero
+  img
+    border-radius 50%
+    box-shadow 0px 0px 25px #00000036
+    animation-name bonce
+    animation-duration 5s
+    animation-iteration-count 100
+    animation-timing-function linear
