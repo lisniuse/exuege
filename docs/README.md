@@ -7,7 +7,7 @@ meta:
     content: 可能是最好的易经国学网站。
 heroImage: /logo.png
 actionText: 快速入门 →
-actionLink: /docs/
+actionLink: /overview/
 footer: 署名-非商业性使用-相同方式共享 3.0 中国大陆 (CC BY-NC-SA 3.0 CN) | Copyright © 2019-present Zhi Bing
 ---
 
