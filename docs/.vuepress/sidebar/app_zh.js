@@ -34,5 +34,12 @@ module.exports = function () {
     children: [
       ['/app/yidao/0001', '《易经》，医道之源']
     ]
+  }, {
+    title: '易经与奇门',
+    collapsable: true,
+    sidebarDepth: 3,
+    children: [
+      ['/app/qimen/0001', '奇门遁甲术常识']
+    ]
   }]
 }
