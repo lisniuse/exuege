@@ -2185,7 +2185,7 @@ sidebar: auto
 
 象曰：上六无实，承虚筐也。
 
- ![图片描述](/static/images/ͼƬ17.png) 
+ ![图片描述](/static/images/eƬ17.png) 
 
 #### 第五十五卦丰
 
