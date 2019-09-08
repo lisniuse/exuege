@@ -15,7 +15,7 @@ sidebar: auto
 
 阴阳的关系是对立统一的关系。世界任何事物都有两个对立属性，这 两个对立属性统一在一个整体中，即相关又对立，于是构成了阴阳关系。如，上与下，左与右，冷与热，多与少，男与女。昼与夜，黑与白等都构成了阴阳对立统一关系。
 
- ![图片描述](/static/images/timg1.gif) 
+ ![图片描述](/static/images/huizhuantu.gif) 
 
  
 
@@ -283,7 +283,8 @@ sidebar: auto
 
 ### 六十四卦
 
- ![图片描述](/static/images/timg6.jpg) 
+  ![图片描述](/static/images/bgsse.jpg) 
+
 
 #### 第一卦 —— 乾
 
@@ -361,7 +362,7 @@ sidebar: auto
 
 用六，永贞，以大终也。
 
- ![图片描述](/static/images/timg12.jpg) 
+ ![图片描述](/static/images/baguaershijiu.jpg) 
 
 #### 第三卦 —— 屯
 
@@ -431,7 +432,7 @@ sidebar: auto
 
 象曰：利用御寇，上下顺也。
 
- ![图片描述](/static/images/timg28.jpg) 
+ ![图片描述](/static/images/bgqb.jpg) 
 
 #### 第五卦 —— 需
 
@@ -640,7 +641,7 @@ sidebar: auto
 
 象曰：元吉在上，大有庆也。
 
- ![图片描述](/static/images/timg36.jpg) 
+ ![图片描述](/static/images/baiguaijiu.jpg) 
 
 #### 第十一卦 —— 泰
 
@@ -744,7 +745,7 @@ sidebar: auto
 
 象曰：同人于郊，志未得也。
 
- ![图片描述](/static/images/timg31.jpg) 
+ ![图片描述](/static/images/baiguaiershiba.jpg) 
 
 #### 第十四卦 —— 大有
 
@@ -848,7 +849,7 @@ sidebar: auto
 
 象曰：冥豫在上，何可长也。
 
- ![图片描述](/static/images/timg1.jpg)  
+ ![图片描述](/static/images/bgssb.jpg)  
 
 #### 第十七卦 —— 随
 
@@ -953,7 +954,7 @@ sidebar: auto
 象曰：敦临之吉，志在内也。
 
 
- ![图片描述](/static/images/timg26.jpg) 
+ ![图片描述](/static/images/bgqw.jpg) 
 #### 第二十卦观
 
 观，风地观，巽上坤下。
@@ -1056,7 +1057,7 @@ sidebar: auto
 
 象曰：白贲无咎，上得志也。
 
- ![图片描述](/static/images/timg15.jpg) 
+ ![图片描述](/static/images/bgss.jpg) 
 
 #### 第二十三卦剥
 
@@ -1294,7 +1295,8 @@ sidebar: auto
 
 象曰：上六失道，凶三岁也。
 
- ![图片描述](/static/images/timg7.jpg) 
+ ![八](/static/images/ba.jpg) 
+
 
 #### 第三十卦离
 
@@ -1501,7 +1503,7 @@ sidebar: auto
 象曰：不能退，不能遂，不祥也。艰则吉，咎不长也。
 
 
- ![图片描述](/static/images/timg5.jpg) 
+ ![图片描述](/static/images/baiguaisanshiy.jpg) 
 
 #### 第三十五卦晋
 
@@ -1675,7 +1677,7 @@ sidebar: auto
 
 象曰：往蹇来硕，志在内也。利见大人，以从贵也。
 
- ![图片描述](/static/images/ͼƬ13.png) 
+ ![图片描述](/static/images/baiguailiusi.jpg) 
 
 #### 第四十卦解
 
@@ -1883,7 +1885,7 @@ sidebar: auto
 
 象曰：齎咨涕洟，未安上也。
 
- ![图片描述](/static/images/ͼƬ15.png) 
+ ![图片描述](/static/images/baiguaiwu.jpg) 
 
 #### 第四十六卦升
 
@@ -2021,7 +2023,7 @@ sidebar: auto
 
 象曰：君子豹变，其文蔚也。小人革面，顺以从君也。
 
- ![图片描述](/static/images/timg.jpg) 
+ ![图片描述](/static/images/baiguaishisan.jpg) 
 
 #### 第五十卦鼎
 
@@ -2185,7 +2187,7 @@ sidebar: auto
 
 象曰：上六无实，承虚筐也。
 
- ![图片描述](/static/images/eT17.png) 
+ ![图片描述](/static/images/tiankosan.png) 
 
 #### 第五十五卦丰
 
@@ -2702,7 +2704,7 @@ sidebar: auto
 
 有利时间、方位、颜色均与震卦相同。
 
- ![图片描述](/static/images/QJ9114865484.jpg) 
+ ![图片描述](/static/images/bgqishi.jpg) 
 
 #### 坎
 
@@ -2842,4 +2844,4 @@ sidebar: auto
 
 八卦生九宫,一切归十方。
 
- ![图片描述](/static/images/timg16.jpg) 
+ ![图片描述](/static/images/baiguaiershiwu.jpg) 

@@ -79,6 +79,9 @@ sidebar: auto
 
 周易大传今注.pdf
 
+ ![图片描述](/static/images/zhouyi.webp) 
+
+
 周易大辞典.pdf
 
 周易宇宙代数学：河洛易数学体系.pdf
@@ -329,3 +332,5 @@ sidebar: auto
 长篇纪实 易侠——记张延生.pdf
 
 馬王堆帛書周易校讀.pdf
+
+ ![图片描述](/static/images/zhouyier.webp) 
