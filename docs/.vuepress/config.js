@@ -64,7 +64,7 @@ module.exports = ctx => ({
         var onDocumentComplete = function() { 
           if(document.readyState =='complete') {
             var hm = document.createElement("script");
-            hm.src = "https://hm.baidu.com/hm.js?198a327b7394c4873952b3dc378df8c0";
+            hm.src = "https://hm.baidu.com/hm.js?7a7e08b276f8a821ac51a2cca908854e";
             var s = document.getElementsByTagName("script")[0]; 
             s.parentNode.insertBefore(hm, s);
           }
